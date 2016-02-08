@@ -1,0 +1,17 @@
+body{
+    background-color: antiquewhite;
+}
+
+.products, .edit, .delete{
+    float:left;
+    cursor: pointer;
+}
+
+.error{
+    color: #c00;
+    font-size: 16px;
+}
+
+.clear{
+    clear: both;
+}
